@@ -1,8 +1,7 @@
 # Character Usage Policy
 
 **Document Created:** August 17, 2026  
-**Last Updated:** August 17, 2026  
-**Effective Date:** August 17, 2026
+**Last Updated:** August 25, 2026
 
 ---
 
@@ -125,8 +124,8 @@ While not strictly prohibited, the Author reserves the right to request removal 
 ## 8. Attribution Requirements
 
 **All permitted uses must include attribution to the Author in any reasonable form**, including but not limited to:
-- Credit line (e.g., "Character by Levon Raupov" or "Character by Levonze")
-- Link to the Author's official profile, website, or repository
+- Credit line (e.g., "Character by Lerim Studios", "Character by LevonzeFear" or "Character by Levonze")
+- Link to the Author's official profile, website
 - Mention in video descriptions, stream overlays, or post captions
 - Watermark on visual works (optional but recommended)
 
