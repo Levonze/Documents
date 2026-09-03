@@ -1,7 +1,7 @@
 # Character Usage Policy
 
 **Document Created:** August 17, 2026  
-**Last Updated:** August 25, 2026
+**Last Updated:** September 3, 2026
 
 ---
 
@@ -92,6 +92,8 @@ The following uses are **strictly prohibited** under all circumstances:
 - Claiming ownership or authorship of the Characters
 - Removing, altering, or obscuring attribution or copyright notices
 - Passing off derivative works as original creations unrelated to the Author's Characters
+### 5.4 Special Cases
+- The owner of the character reserves the right to request the removal of any work if, in his opinion, it is inappropriate or offensive
 
 ---
 
