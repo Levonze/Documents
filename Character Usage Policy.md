@@ -5,6 +5,11 @@
 
 ---
 
+> [!CAUTION]
+> At this time, the publication of ANY content featuring the characters listed below is prohibited.
+
+---
+
 ## 1. Introduction & Scope
 
 This Character Usage Policy ("Policy") governs the use of all original characters created by **Levon Raupov** (also known as **Levonze**, **LevonzeFear**, **Novel Rainov**, and **Novel**) (hereinafter "Author" or "Rights Holder").
