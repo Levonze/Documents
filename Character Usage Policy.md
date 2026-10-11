@@ -14,6 +14,12 @@
 
 This Character Usage Policy ("Policy") governs the use of all original characters created by **Levon Raupov** (also known as **Levonze**, **LevonzeFear**, **Novel Rainov**, and **Novel**) (hereinafter "Author" or "Rights Holder").
 
+Charecters list affected by this Policy:
+- Novel Rainov, Novel
+- Mia Rainova, Mia
+- Violetta
+- Inferno Novel
+
 This Policy applies to:
 - All currently existing characters created by the Author
 - All future characters created by the Author
